@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: white;
+}
+
+.marquee {
+    font-size: 45px;
+    font-family: sans-serif;
+    margin-left: 17%;
+    font-weight: bold;
+}
